@@ -1,0 +1,23 @@
+{
+
+  "type": "minecraft:crafting_shaped",
+  "group": "mod",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:diamond_block"
+    },
+    "X": {
+      "item": "minecraft:enchanted_golden_apple"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "xiaoyoyodeworld:blue_yoyo"
+  }
+}
